@@ -10,8 +10,8 @@
 
 🚀 Projects
 Here are some of my key projects: 
-- 🔹 **[Pronunciation Detector](#)** - Flask & OpenAI Whisper-based pronunciation assessment  
-- 🔹 **[Farewell Website](#)** - A farewell-themed animated website for my CS department  
+- 🔹 **[Pronunciation Detector](https://github.com/Subesh-N/pronunce)** - Flask & OpenAI Whisper-based pronunciation assessment  
+- 🔹 **[Farewell Website]()** - A farewell-themed animated website for my CS department  
 
 
 
@@ -21,7 +21,7 @@ Here are some of my key projects:
 
 
 📫 Connect with Me
-- 📩 **Email: Peogrammersubesh@gmail.com 
+- 📩 **Email: Programmersubesh@gmail.com 
 - 💼 **LinkedIn: www.linkedin.com/in/subesh-kumar-13b571292
 - 🌐 **Portfolio:** [subeshkumar.dev](#) (Coming Soon!)  
 
