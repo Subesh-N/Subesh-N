@@ -11,7 +11,7 @@
 🚀 Projects
 Here are some of my key projects: 
 - 🔹 **[Pronunciation Detector](https://github.com/Subesh-N/pronunce)** - Flask & OpenAI Whisper-based pronunciation assessment  
-- 🔹 **[Farewell Website]()** - A farewell-themed animated website for my CS department  
+- 🔹 **[Farewell Website](https://github.com/Subesh-N/Clusters_Department)** - A farewell-themed animated website for my CS department  
 
 
 
