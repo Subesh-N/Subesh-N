@@ -1,12 +1,12 @@
 here🛠️ About Me
 
-🎓 Final Year BSc Computer Science Graduate
+🎓 BSc Computer Science Graduate
 
 💻 Aspiring Java Developer | Web Developer
 
 ⚙️ Tech Stack: Java, Spring Boot, HTML, CSS, MySQL, SQLite
 
-🚀 Final Year Project: Automatic Pronunciation Detector (Flask + Whisper) (can skip if you want only Java)
+🚀 Final Year Project: Automatic Pronunciation Detector (Flask + Whisper)
 
 🎯 Goal: To get placed as a Java Developer
 
